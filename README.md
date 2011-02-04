@@ -28,6 +28,6 @@ The Interface
 
 Since the main focus of this project was the game engine and multiplayer networking support, the user interface is a bit lacking.
 
-![Game Menu](screenshots/ballstack-intro.jpg "Game Menu")
-![Gameplay 1](screenshots/ballstack-gameplay.jpg "Game Play 1")
-![Gameplay 2](screenshots/ballstack-gameplay-2.jpg "Game Play 2")
+![Game Menu](/screenshots/ballstack-intro.jpg "Game Menu")
+![Gameplay 1](/screenshots/ballstack-gameplay.jpg "Game Play 1")
+![Gameplay 2](/screenshots/ballstack-gameplay-2.jpg "Game Play 2")
